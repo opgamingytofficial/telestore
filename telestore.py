@@ -4,8 +4,8 @@ import os
 import logging
 
 # Replace with your actual tokens and IDs
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-STORAGE_CHANNEL_ID = -1001234567890 
+BOT_TOKEN = "6440959723:AAHwXSukUQDMI9MCkrCeCUTWWDHCFBfiNiU"
+STORAGE_CHANNEL_ID = -1002055168020
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', 
